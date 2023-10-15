@@ -6,13 +6,9 @@ Press NUMPAD6 to simulate a mouse click at the center of the screen.
 Press NUMPAD3 to simulate mouse clicks 3 pixels to the left and right of the center of the screen.
 
 How to Use
+
 Ensure you have the required libraries installed:
-
 pip install pyautogui keyboard
+
 Run the script:
-
 python anti_afk_tool.py
-Once the script is running, you can press the specified keys (NUMPAD6 or NUMPAD3) to simulate the mouse actions and prevent being marked as AFK.
-
-Note
-Please use this tool responsibly and ensure you're not violating any terms of service or rules of the platform you're using it on.
